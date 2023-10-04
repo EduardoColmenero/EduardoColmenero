@@ -1,5 +1,6 @@
-### Hi there 👋 I´m Eduardo
+### Hi there I´m Eduardo! 👋 
 
+I'm a developer with 10+ years of experience on the Frontend and UI/UX design. I'm actually have a degree on design so that's why I'm cosider myself a **Developer who can design**.
 <!--
 **EduardoColmenero/EduardoColmenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
