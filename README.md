@@ -4,7 +4,7 @@ I'm a developer with 10+ years of experience on the Frontend and UI/UX design. I
 
 Some of the cool stuff I's using right now:
 
-<img height="40" src="https://cdn.simpleicons.org/react" /> <img height="40" src="https://cdn.simpleicons.org/typescript" /> <img height="40" src="https://cdn.simpleicons.org/javascript" /> <img height="40" src="https://cdn.simpleicons.org/graphql" /> <img height="40" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="40" src="https://cdn.simpleicons.org/astro" />
+<img height="40" src="https://cdn.simpleicons.org/react" /> <img height="40" src="https://cdn.simpleicons.org/javascript" /> <img height="40" src="https://cdn.simpleicons.org/graphql" /> <img height="40" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="40" src="https://cdn.simpleicons.org/typescript" /> <img height="40" src="https://cdn.simpleicons.org/astro" />
 <!--
 **EduardoColmenero/EduardoColmenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
