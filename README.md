@@ -1,10 +1,12 @@
-### Hi there I´m Eduardo! 👋 
+## Hi there I´m Eduardo! 👋 
 
 I'm a developer with 10+ years of experience on the Frontend and UI/UX design. I'm actually have a degree on design so that's why I'm cosider myself a **Developer who can design**.
 
 Some of the cool stuff I'm using right now:
 
 <img height="40" src="https://cdn.simpleicons.org/react" /> <img height="40" src="https://cdn.simpleicons.org/typescript" /> <img height="40" src="https://cdn.simpleicons.org/graphql" /> <img height="40" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="40" src="https://cdn.simpleicons.org/javascript" /> <img height="40" src="https://cdn.simpleicons.org/astro" />
+
+###Contact me
 <!--
 **EduardoColmenero/EduardoColmenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
