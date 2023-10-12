@@ -6,7 +6,7 @@ Some of the cool stuff I'm using right now:
 
 <img height="40" src="https://cdn.simpleicons.org/react" /> <img height="40" src="https://cdn.simpleicons.org/typescript" /> <img height="40" src="https://cdn.simpleicons.org/graphql" /> <img height="40" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="40" src="https://cdn.simpleicons.org/javascript" /> <img height="40" src="https://cdn.simpleicons.org/astro" />
 
-###Contact me
+### Contact me
 <!--
 **EduardoColmenero/EduardoColmenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
