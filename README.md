@@ -9,8 +9,10 @@ Some of the cool stuff I'm using right now:
 ### Contact me
 
 If you'd like to contact me, you can do it on: 
+
 <img height="20" src="https://cdn.simpleicons.org/linkedin" /> [LinkedIn](https://linkedin.com/in/EduardoColmenero)
-<img height="20" src="https://cdn.simpleicons.org/gmail" /> [Mail](mailto:e.lopezcolmenero@gmail.com)
+
+<img height="20" src="https://cdn.simpleicons.org/gmail" /> [Mail on e.lopezcolmenero@gmail.com](mailto:e.lopezcolmenero@gmail.com)
 <!--
 **EduardoColmenero/EduardoColmenero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
