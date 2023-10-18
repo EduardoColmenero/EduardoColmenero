@@ -4,7 +4,7 @@ I'm a developer with 10+ years of experience on the Frontend and UI/UX design. I
 
 Some of the cool stuff I'm using right now:
 
-<img height="40" src="https://cdn.simpleicons.org/react" /> <img height="40" src="https://cdn.simpleicons.org/typescript" /> <img height="40" src="https://cdn.simpleicons.org/graphql" /> <img height="40" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="40" src="https://cdn.simpleicons.org/javascript" /> <img height="40" src="https://cdn.simpleicons.org/git" /> <img height="40" src="https://cdn.simpleicons.org/astro" />
+<img height="40" src="https://cdn.simpleicons.org/react" /> <img height="40" src="https://cdn.simpleicons.org/typescript" /> <img height="40" src="https://cdn.simpleicons.org/graphql" /> <img height="40" src="https://cdn.simpleicons.org/nodedotjs" /> <img height="40" src="https://cdn.simpleicons.org/javascript" /> <img height="40" src="https://cdn.simpleicons.org/astro" /> <img height="40" src="https://cdn.simpleicons.org/git" />
 
 
 
